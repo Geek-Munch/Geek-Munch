@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on impactful ideas
 - 📫 How to reach me rumwihaki@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i Unleash Mayhem, One Bug Fix at a Time!🍃😤
 
 <!---
 Geek-Munch/Geek-Munch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
